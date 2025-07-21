@@ -1,9 +1,9 @@
 # Olá, seja bem-vindo ao meu perfil! 👋😁
 
 ## 👤Um pouco sobre mim
->Me chamo Jorge, tenho 19 anos e sempre fui interessado pela área da tecnologia. Aos 18 ingressei na Universidade Estácio de Sá, no curso de Sistemas de Informação com 100% de bolsa por meio do Prouni. Na faculdade tive meu primeiro contato com Segurança da Informação, e, desde então, venho procurando me especializar na área.
+>Me chamo Jorge, tenho 20 anos e sempre fui interessado pela área da tecnologia. Aos 18 ingressei na Universidade Estácio de Sá, no curso de Sistemas de Informação com 100% de bolsa por meio do Prouni. Na faculdade tive meu primeiro contato com Segurança da Informação, e, desde então, venho procurando me especializar na área.
 
-- 💻 Estou no terceiro período da faculdade de Sistemas de Informação.
+- 💻 Estou no quarto período da faculdade de Sistemas de Informação.
 - 🔒 Atualmente estou estagiando na Compass UOL, como DevSecOps!
 
 ![JorgeAntero's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeAntero&show_icons=true&theme=midnight-purple)  
